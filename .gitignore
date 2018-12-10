@@ -1,0 +1,7 @@
+build/
+devel/
+img*/
+bunn*
+*.swp
+tmp*
+ORBvoc.txt
